@@ -1,12 +1,13 @@
-# Starlight Starter Kit: Basics
+# Cellular Networks Docs
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+
+This project is a personal learning resource about cellular networks, starting with 1G and gradually expanding to 2G, 3G, 4G, and 5G.  
+Content may contain inaccuracies or simplifications and is not an official technical specification. Use it at your own risk; the author assumes no responsibility or liability for any errors.
 
 ```
 npm create astro@latest -- --template starlight
 ```
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
 ## 🚀 Project Structure
 
