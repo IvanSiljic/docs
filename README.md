@@ -1,9 +1,11 @@
-# Cellular Networks Docs
+# Sunny Docs
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
-This project is a personal learning resource about cellular networks, starting with 1G and gradually expanding to 2G, 3G, 4G, and 5G.  
-Content may contain inaccuracies or simplifications and is not an official technical specification. Use it at your own risk; the author assumes no responsibility or liability for any errors.
+Sunny Docs is my personal "learning in public" dump: anything I'm trying to understand might end up here, networking, math, graphics programming, or whatever else future-me decides is fun. The goal is to explain things as if we're both confused but stubborn and willing to poke at details until they make sense.
+
+Right now the main focus is cellular networks, starting with 1G and slowly marching toward the fancier generations. Expect some parts to be broad "for dummies" explanations and other parts to go way too deep on oddly specific details, depending on what caught my attention that day.
+
 
 ```
 npm create astro@latest -- --template starlight
