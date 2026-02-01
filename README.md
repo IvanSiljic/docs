@@ -1,36 +1,14 @@
-# Cellular Networks Docs
+# Sunny Docs
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
-This project is a personal learning resource about cellular networks, starting with 1G and gradually expanding to 2G, 3G, 4G, and 5G.  
-Content may contain inaccuracies or simplifications and is not an official technical specification. Use it at your own risk; the author assumes no responsibility or liability for any errors.
+Live site: [https://sunnydocs.netlify.app/](https://sunnydocs.netlify.app/)
 
-```
-npm create astro@latest -- --template starlight
-```
+Sunny Docs is my personal "learning in public" dump: anything I'm trying to understand might end up here – networking, math, graphics programming, or whatever else future‑me decides is fun. The goal is to explain things as if we're both confused but stubborn and willing to poke at details until they make sense.
 
-## 🚀 Project Structure
-
-Inside of your Astro + Starlight project, you'll see the following folders and files:
-
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   └── docs/
-│   └── content.config.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
-```
-
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
-
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
-
-Static assets, like favicons, can be placed in the `public/` directory.
+Right now there are two main threads:
+- cellular networks, starting from 1G
+- mathematics, starting with differential equations (some notes in Croatian, some in English)
 
 ## 🧞 Commands
 
