@@ -43,12 +43,46 @@ export default defineConfig({
                 },
               ]
             },
-            // {  
-            //   label: 'Hardware',
-            //   items: [
-            //     { label: 'Antennas and stuff', slug: 'networks/hardware/antennas-and-stuff'}
-            //   ]
-            // },
+          ],
+        },
+        {
+          label: 'Mathematics',
+          items: [
+            {
+              label: 'Overview',
+              slug: 'math',
+            },
+            {
+              label: 'Differential Equations',
+              items: [
+                {
+                  label: 'Introduction',
+                  slug: 'math/differential-equations',
+                },
+                {
+                  label: 'Theory',
+                  items: [
+                    {
+                      label: 'Intro',
+                      slug: 'math/differential-equations/theory',
+                    }
+                  ]
+                },
+                {
+                  label: 'Practice',
+                  items: [
+                    {
+                      label: 'Intro',
+                      slug: 'math/differential-equations/practice',
+                    },
+                    {
+                      label: 'Lipshitz functions',
+                      slug: 'math/differential-equations/practice/lipshitz-functions',
+                    }
+                  ]
+                },
+              ],
+            },
           ],
         },
       ]
