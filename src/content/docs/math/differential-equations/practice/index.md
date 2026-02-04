@@ -42,6 +42,14 @@ $$
 (\forall \varepsilon > 0)\quad (\exists n_{\varepsilon}\in\mathbb{N})\quad (\forall x\in[a,b])\quad (\forall n\in\mathbb{N})\quad n\geq n_{\varepsilon}\Rightarrow |f_n(x)-f(x)|<\varepsilon
 $$
 
+## Postupci rješavanja:
+
+### Provjera uniformne konvergencije
+
+**1. Korak:** $f(x)=lim_{n\to\infty}f_n(x)$<br>
+**2. Korak:** $|f_n - f| < \varepsilon, \quad \varepsilon>0$<br>
+**3. Korak:** Ako je moguće $n=f(\varepsilon)$
+
 ## Zadatci za vježbu:
 
 **1. Zadatak:** Pronađite sve krivulje za koje je odsječak na osi ordinata, koji odsjeca bilo koja tangenta, jednak apscisi dirališta.
