@@ -78,6 +78,10 @@ export default defineConfig({
                     {
                       label: 'Lipshitz functions',
                       slug: 'math/differential-equations/practice/lipshitz-functions',
+                    },
+                    {
+                      label: 'Picard iterations',
+                      slug: 'math/differential-equations/practice/picard-iterations'
                     }
                   ]
                 },
