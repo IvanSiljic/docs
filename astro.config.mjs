@@ -90,6 +90,10 @@ export default defineConfig({
                     {
                       label: 'Equations with linear functions',
                       slug: 'math/differential-equations/practice/linear-function'
+                    },
+                    {
+                      label: 'First-order homogeneous',
+                      slug: 'math/differential-equations/practice/first-order-homogeneous'
                     }
                   ]
                 },
