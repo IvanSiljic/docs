@@ -86,6 +86,10 @@ export default defineConfig({
                     {
                       label: 'Separable variables',
                       slug: 'math/differential-equations/practice/separate-variables'
+                    },
+                    {
+                      label: 'Equations with linear functions',
+                      slug: 'math/differential-equations/practice/linear-function'
                     }
                   ]
                 },

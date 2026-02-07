@@ -71,6 +71,8 @@ $$
 1. $\quad f_n(x)=\frac{nx}{nx+1},\quad n\in\mathbb{N}$
 2. $\quad f_n(x)=\frac{nx^2}{nx+1}$
 
+**7. Zadatak:** Newtonov zakon hlađenja glasi: "Promjena temperature objekta proporcionalna je rzlici temperature objekta $T$ i temperature okoline $T_{oko}$". Koristeći ovaj zakon, riješite sljedeći problem: u hotelskoj sobi temperature $20\textdegree C$ policija je u ponoć otkrila tijelo. Temperatura tijela bile je $26\textdegree C$, a 2h kasnije $24\textdegree C$. Kada se otprilike dogodio zločin?
+
 ## Rješenja zadataka:
 
 **1. Zadatak:**
@@ -119,3 +121,5 @@ $$
 **6. Zadatak:**
 1. Uniformno konvergentna s uvjetom da $0\notin [a,b]$
 2. Uniformno konvergentna.
+
+**7. Zadata:** 19h.
