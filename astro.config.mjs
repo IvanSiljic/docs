@@ -82,6 +82,10 @@ export default defineConfig({
                     {
                       label: 'Picard iterations',
                       slug: 'math/differential-equations/practice/picard-iterations'
+                    },
+                    {
+                      label: 'Separable variables',
+                      slug: 'math/differential-equations/practice/separate-variables'
                     }
                   ]
                 },
