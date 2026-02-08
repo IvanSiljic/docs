@@ -106,6 +106,10 @@ export default defineConfig({
                     {
                       label: 'Bernoully ODE',
                       slug: 'math/differential-equations/practice/bernoully'
+                    },
+                    {
+                      label: 'Exact ODE',
+                      slug: 'math/differential-equations/practice/exact-ode'
                     }
                   ]
                 },
