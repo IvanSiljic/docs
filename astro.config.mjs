@@ -94,6 +94,18 @@ export default defineConfig({
                     {
                       label: 'First-order homogeneous',
                       slug: 'math/differential-equations/practice/first-order-homogeneous'
+                    },
+                    {
+                      label: 'Equations with Linear-Fractional argument',
+                      slug: 'math/differential-equations/practice/linear-fractional-argument'
+                    },
+                    {
+                      label: 'Linear ODE',
+                      slug: 'math/differential-equations/practice/linear-ode'
+                    },
+                    {
+                      label: 'Bernoully ODE',
+                      slug: 'math/differential-equations/practice/bernoully'
                     }
                   ]
                 },
