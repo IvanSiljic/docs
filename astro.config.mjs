@@ -114,7 +114,11 @@ export default defineConfig({
                     {
                       label: 'Euler Integrating Factor',
                       slug: 'math/differential-equations/practice/euler-integrating-factor'
-                    }
+                    },
+                    {
+                      label: 'Clairaut-Lagrange ODEs',
+                      slug: 'math/differential-equations/practice/clairaut-lagrange-ode'
+                    },
                   ]
                 },
               ],
