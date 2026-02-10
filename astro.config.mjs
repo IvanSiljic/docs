@@ -110,6 +110,10 @@ export default defineConfig({
                     {
                       label: 'Exact ODE',
                       slug: 'math/differential-equations/practice/exact-ode'
+                    },
+                    {
+                      label: 'Euler Integrating Factor',
+                      slug: 'math/differential-equations/practice/euler-integrating-factor'
                     }
                   ]
                 },
