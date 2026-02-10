@@ -50,6 +50,8 @@ $$
 
 **4. Zadatak:** Riješite DJ $x(e^y-y^{\prime})=2$
 
+**5. Zadatak:** Riješite DJ $(3x^2e^y)dx+(x^3e^y-1)dy=0$
+
 ## Rješenja zadataka:
 
 **1. Zadatak:** $x^3+3x^2y^2+y^4=c,\quad c\in\mathbb{R}$
@@ -59,3 +61,5 @@ $$
 **3. Zadatak:** $\sqrt{y}=x^2(\ln|x|+D),\quad D\in\mathbb{R}$
 
 **4. Zadatak:** $\frac{1}{e^y}=\left(\frac{1}{x}+D\right)x^2,\quad D\in\mathbb{R}$
+
+**5. Zadatak:** $x^3e^y-y=c,\quad c\in\mathbb{R}$
