@@ -123,6 +123,10 @@ export default defineConfig({
                       label: 'Riccati ODEs',
                       slug: 'math/differential-equations/practice/riccati-ode'
                     },
+                    {
+                      label: 'Reducible ODEs',
+                      slug: 'math/differential-equations/practice/reducible-ode'
+                    },
                   ]
                 },
               ],
