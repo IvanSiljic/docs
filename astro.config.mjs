@@ -119,6 +119,10 @@ export default defineConfig({
                       label: 'Clairaut-Lagrange ODEs',
                       slug: 'math/differential-equations/practice/clairaut-lagrange-ode'
                     },
+                    {
+                      label: 'Riccati ODEs',
+                      slug: 'math/differential-equations/practice/riccati-ode'
+                    },
                   ]
                 },
               ],
