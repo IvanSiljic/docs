@@ -131,6 +131,10 @@ export default defineConfig({
                       label: 'First-order Linear Systems',
                       slug: 'math/differential-equations/practice/first-order-linear-systems'
                     },
+                    {
+                      label: 'Linear ODEs (Constant Coeffs)',
+                      slug: 'math/differential-equations/practice/linear-ode-const-coef'
+                    },
                   ]
                 },
               ],
