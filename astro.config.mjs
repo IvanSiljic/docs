@@ -127,6 +127,10 @@ export default defineConfig({
                       label: 'Reducible ODEs',
                       slug: 'math/differential-equations/practice/reducible-ode'
                     },
+                    {
+                      label: 'First-order Linear Systems',
+                      slug: 'math/differential-equations/practice/first-order-linear-systems'
+                    },
                   ]
                 },
               ],
